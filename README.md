@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/WeineOlliver/crudAndTDD)
+
 # CRUD with TDD
 
 This project were created to test jest with a CRUD app.
